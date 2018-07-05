@@ -1,3 +1,4 @@
 import os
 
-os.urandom(10)
+x= os.urandom(10)
+y = range(10)
